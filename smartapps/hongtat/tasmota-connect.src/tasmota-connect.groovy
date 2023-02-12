@@ -25,7 +25,6 @@ definition(
     name: "Tasmota (Connect)",
     namespace: "hongtat",
     author: "AwfullySmart",
-    category: "My Apps",
     description: "Allows you to integrate your Tasmota devices with SmartThings.",
     iconUrl: "https://awfullysmart.github.io/st/awfullysmart-180.png",
     iconX2Url: "https://awfullysmart.github.io/st/awfullysmart-180.png",
